@@ -1,4 +1,19 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://sumitgouthaman.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Sumit Gouthaman'
 theme = 'ananke'
+
+enableRobotsTXT = true
+
+[sitemap]
+    changefreq = "monthly"
+    priority = 0.5
+    filename = "sitemap.xml"
+
+[[params.ananke_socials]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/sumitgouthaman/"
+
+[[params.ananke_socials]]
+    name = "github"
+    url = "https://github.com/sumitgouthaman"
