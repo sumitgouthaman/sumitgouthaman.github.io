@@ -1,4 +1,4 @@
-baseURL = 'https://blog.sumitgouthaman.com/'
+baseURL = 'https://sumitgouthaman.com/'
 languageCode = 'en-us'
 title = 'Sumit Gouthaman'
 theme = 'ananke'
