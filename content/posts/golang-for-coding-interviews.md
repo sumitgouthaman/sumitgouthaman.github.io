@@ -1,7 +1,6 @@
 +++
 title = 'Golang for Coding Interviews'
 date = 2024-07-12T21:31:35-07:00
-draft = true
 +++
 
 Are you planning to use Go for solving coding problems in an upcoming interview? If so, you might have realized that the language feels a little "unergonomic" for quickly implementing algorithms under the time constraints imposed by an interview.
