@@ -18,3 +18,13 @@ enableRobotsTXT = true
 [[params.ananke_socials]]
     name = "github"
     url = "https://github.com/sumitgouthaman"
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    lineNos = false
+    # lineNumbersInTable = true
+    noClasses = true
+    style = "monokai"
+    tabWidth = 4

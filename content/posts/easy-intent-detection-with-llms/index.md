@@ -1,5 +1,5 @@
 +++
-title = 'Fun with LLMs - Intent detection with no ML background?'
+title = 'Fun with LLMs - Intent detection'
 date = 2024-11-10T12:14:20-08:00
 +++
 
