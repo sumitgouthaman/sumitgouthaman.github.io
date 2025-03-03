@@ -1,6 +1,7 @@
 +++
 title = "Amazon Builder's Library - An overlooked goldmine of System Design knowledge"
 date = 2024-08-10T11:06:35-07:00
+tags = ['system-design', 'aws']
 +++
 
 I've recently been spending some time improving my understanding of distributed systems.

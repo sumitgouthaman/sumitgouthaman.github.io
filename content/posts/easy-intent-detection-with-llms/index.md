@@ -1,6 +1,7 @@
 +++
 title = 'Fun with LLMs - Intent detection'
 date = 2024-11-10T12:14:20-08:00
+tags = ['llms', 'gen-ai']
 +++
 
 ![Sheldon cooper's Fun with flags meme](fun_with_llms.png)

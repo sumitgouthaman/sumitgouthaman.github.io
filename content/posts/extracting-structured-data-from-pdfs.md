@@ -2,7 +2,7 @@
 title = 'Extracting structured data from PDFs like a pro'
 summary = 'How I extract useful structured data from messy brokerage statements.'
 date = 2025-03-01
-draft = true
+tags = ['llms', 'gen-ai']
 +++
 
 One of my biggest annoyances with financial institutions is the lack of a standardized format for exporting details of stocks and other holdings in a brokerage account.
