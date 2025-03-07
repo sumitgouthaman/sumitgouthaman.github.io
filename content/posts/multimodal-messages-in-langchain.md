@@ -6,7 +6,7 @@ date = 2025-03-03T22:22:50-08:00
 
 LangChain's [`BaseChatModel`](https://python.langchain.com/api_reference/core/language_models/langchain_core.language_models.chat_models.BaseChatModel.html) is a good abstraction. Typically, you can implement your components to use a BaseChatModel without worrying too much about the underlying LLM model (Claude, Gemini, etc.).
 
-However, as I discovered [recently](extracting-structured-data-from-pdfs.md) when working with multimodal inputs, this abstraction becomes quite leaky when dealing with anything other than simple text messages.
+However, as I discovered [recently]({{< relref "extracting-structured-data-from-pdfs.md" >}}) when working with multimodal inputs, this abstraction becomes quite leaky when dealing with anything other than simple text messages.
 
 It appears there is no standardized pattern across LLM providers for how to pass non-text inputs (images, PDFs, audio, etc.) to the model. One must refer to each model's documentation to determine the correct input format.
 
