@@ -28,3 +28,7 @@ enableRobotsTXT = true
     noClasses = true
     style = "monokai"
     tabWidth = 4
+
+[services]
+  [services.googleAnalytics]
+    id = 'G-ED6QK3F0MY'
