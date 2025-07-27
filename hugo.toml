@@ -20,6 +20,9 @@ enableRobotsTXT = true
     url = "https://github.com/sumitgouthaman"
 
 [markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
   [markup.highlight]
     codeFences = true
     guessSyntax = true
