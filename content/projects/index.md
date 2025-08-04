@@ -13,7 +13,7 @@ Quick projects built while experimenting with various tools and approaches.
 
 ### Morse Code Trainer
 
-**🚀 [Try it live here!](https://morse-code.sumitgouthaman.com)**
+**🚀 [Try it live here!](https://morse-code.sumitgouthaman.com)** | **📂 [View on GitHub](https://github.com/sumitgouthaman/morse-code-trainer)**
 
 An interactive web application for practicing morse code. Built using Gemini CLI and Q CLI as a rapid development experiment.
 
