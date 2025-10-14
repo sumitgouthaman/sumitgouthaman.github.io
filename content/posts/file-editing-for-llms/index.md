@@ -1,7 +1,7 @@
 +++
 title = 'The hidden sophistication behind how AI agents edit files'
 date = 2025-10-11T20:02:42-07:00
-draft = false
+tags = ['llms', 'agents', 'tool-use']
 +++
 
 I was recently using Q CLI to implement a new feature and noticed it struggling in an unexpected way. It had managed to implement the feature incredibly quickly in 4-5 iterations but was struggling when it came to updating all the tests impacted by the change. In particular, it was repeatedly running into issues editing large text files either because the string it was trying to replace wasn't present or was present in more than one location in the file. I had seen this happen before: typically it would try in vain for a while and eventually either give up or use command-line tools to edit the file.
