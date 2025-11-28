@@ -11,6 +11,17 @@ menu:
 
 Quick projects built while experimenting with various tools and approaches.
 
+### Podcast Smart Trim
+
+**📂 [View on GitHub](https://github.com/sumitgouthaman/podcast-smart-trim)**
+
+A CLI tool that uses AI to automatically identify and remove advertisements from podcasts. This project was built to test **Antigravity**, Google's new IDE.
+
+**Features:**
+- **AI Transcription**: Uses `openai-whisper` for accurate transcripts.
+- **Smart Ad Detection**: Uses Google Gemini to analyze context and identify ad breaks.
+- **Ad Removal**: Uses `ffmpeg` to remove the identified ad segments.
+
 ### Morse Code Trainer
 
 **🚀 [Try it live here!](https://morse-code.sumitgouthaman.com)** | **📂 [View on GitHub](https://github.com/sumitgouthaman/morse-code-trainer)**
