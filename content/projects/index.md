@@ -22,6 +22,26 @@ A CLI tool that uses AI to automatically identify and remove advertisements from
 - **Smart Ad Detection**: Uses Google Gemini to analyze context and identify ad breaks.
 - **Ad Removal**: Uses `ffmpeg` to remove the identified ad segments.
 
+### Habit Tracker PWA
+
+**📂 [View on GitHub](https://github.com/sumitgouthaman/habit-tracker)**
+
+A PWA for tracking daily, weekly, and monthly habits with offline support and stats.
+
+**Features:**
+- **Smart Tracking**: Daily, Weekly, and Monthly habits with auto-reset.
+- **Flexible Goals**: Track binary completion (Done/Not Done) or specific counts.
+- **Visual Stats**: View streaks and completion progress.
+- **Offline Ready**: Works without internet connection.
+- **Clean UI**: Dark mode design with glassmorphism elements.
+
+<div style="display: flex; gap: 10px; overflow-x: auto; padding: 10px 0;">
+  <img src="https://raw.githubusercontent.com/sumitgouthaman/habit-tracker/main/screenshots/main_page.png" alt="Habit Tracker Main Page" width="200">
+  <img src="https://raw.githubusercontent.com/sumitgouthaman/habit-tracker/main/screenshots/stats.png" alt="Habit Tracker Stats" width="200">
+  <img src="https://raw.githubusercontent.com/sumitgouthaman/habit-tracker/main/screenshots/stats_2.png" alt="Habit Tracker Stats 2" width="200">
+  <img src="https://raw.githubusercontent.com/sumitgouthaman/habit-tracker/main/screenshots/settings.png" alt="Habit Tracker Settings" width="200">
+</div>
+
 ### Morse Code Trainer
 
 **🚀 [Try it live here!](https://morse-code.sumitgouthaman.com)** | **📂 [View on GitHub](https://github.com/sumitgouthaman/morse-code-trainer)**
