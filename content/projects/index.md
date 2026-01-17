@@ -24,7 +24,7 @@ A CLI tool that uses AI to automatically identify and remove advertisements from
 
 ### Habit Tracker PWA
 
-**📂 [View on GitHub](https://github.com/sumitgouthaman/habit-tracker)**
+**🚀 [Try it live here!](https://habit-tracker.sumitgouthaman.com)** | **[View on GitHub](https://github.com/sumitgouthaman/habit-tracker)**
 
 A PWA for tracking daily, weekly, and monthly habits with offline support and stats.
 
