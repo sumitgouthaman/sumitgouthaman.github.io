@@ -58,3 +58,15 @@ An interactive web application for practicing morse code. Built using Gemini CLI
 </div>
 
 *Built with vanilla JavaScript and the HTML5 Audio API.*
+
+### iPad Photo Frame
+
+**📂 [View on GitHub](https://github.com/sumitgouthaman/ipad-photo-frame)**
+
+Turn your unused iPad into a digital photo frame—no cloud services, logins, or remote backends required. I wanted a simple way to repurpose an old iPad without relying on third-party services, and with the ability to easily add new photos without connecting a cable. The app exposes a local web server, letting you drag and drop photos from any browser on your network. This approach was inspired by a similar feature in VLC Player for iOS.
+
+**Features:**
+- **Fully Offline**: No cloud services or accounts required.
+- **Wireless Uploads**: Drag and drop photos from any browser on your network.
+- **No Cables**: Add new photos without connecting to a computer.
+- **Privacy First**: Your photos stay on your device.
