@@ -52,6 +52,18 @@ A native macOS menu bar app that shows real-time bus arrivals for your saved sto
 <img src="https://raw.githubusercontent.com/sumitgouthaman/oba-macos/main/screenshots/popover.png" alt="OBA macOS popover" width="300">
 </div>
 
+### pdf-cropper — Per-Page PDF Cropping
+
+**📂 [View on GitHub](https://github.com/sumitgouthaman/pdf-cropper)**
+
+A locally-hosted web app for cropping individual pages of a PDF — each page independently. Most PDF tools apply the same crop rectangle to every page, which doesn't work well for scanned books or mixed-format PDFs. This tool was built to handle exactly that case.
+
+Crop each PDF page independently, with a sidebar thumbnail preview. Runs locally — no cloud services.
+
+<div style="text-align: center;">
+<img src="https://raw.githubusercontent.com/sumitgouthaman/pdf-cropper/main/screenshots/recording.gif" alt="pdf-cropper demo" width="700">
+</div>
+
 ### Morse Code Trainer
 
 **🚀 [Try it live here!](https://morse-code.sumitgouthaman.com)** | **📂 [View on GitHub](https://github.com/sumitgouthaman/morse-code-trainer)**
