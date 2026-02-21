@@ -42,6 +42,16 @@ A PWA for tracking daily, weekly, and monthly habits with offline support and st
   <img src="https://raw.githubusercontent.com/sumitgouthaman/habit-tracker/main/screenshots/settings.png" alt="Habit Tracker Settings" width="200">
 </div>
 
+### OBA macOS — Bus Arrivals in Your Menu Bar
+
+**📂 [View on GitHub](https://github.com/sumitgouthaman/oba-macos)**
+
+A native macOS menu bar app that shows real-time bus arrivals for your saved stops via the OneBusAway API.
+
+<div style="text-align: center;">
+<img src="https://raw.githubusercontent.com/sumitgouthaman/oba-macos/main/screenshots/popover.png" alt="OBA macOS popover" width="300">
+</div>
+
 ### Morse Code Trainer
 
 **🚀 [Try it live here!](https://morse-code.sumitgouthaman.com)** | **📂 [View on GitHub](https://github.com/sumitgouthaman/morse-code-trainer)**
@@ -58,6 +68,7 @@ An interactive web application for practicing morse code. Built using Gemini CLI
 </div>
 
 *Built with vanilla JavaScript and the HTML5 Audio API.*
+
 
 ### iPad Photo Frame
 
