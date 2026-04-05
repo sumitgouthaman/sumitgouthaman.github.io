@@ -42,6 +42,27 @@ A PWA for tracking daily, weekly, and monthly habits with offline support and st
   <img src="https://raw.githubusercontent.com/sumitgouthaman/habit-tracker/main/screenshots/settings.png" alt="Habit Tracker Settings" width="200">
 </div>
 
+### BusDash: Android & Wear OS Transit Dashboard
+
+**📂 [View on GitHub](https://github.com/sumitgouthaman/BusDash)**
+
+A fast, glanceable transit dashboard for Android and Wear OS. Built for daily commuters who take the same bus from the same stops every day, powered by the OneBusAway API.
+
+**Features:**
+- **Real-time Arrivals**: Handles API rate limits gracefully with caching.
+- **Location-aware**: Shows nearby stops automatically and floats starred stops to the top.
+- **Wear OS Companion**: Syncs starred stops and settings from your phone.
+- **Dark UI**: High-contrast, transit-themed dark mode throughout.
+
+<div style="display: flex; gap: 10px; overflow-x: auto; padding: 10px 0; align-items: center;">
+  <img src="https://raw.githubusercontent.com/sumitgouthaman/BusDash/main/screenshots/screenshot_phone.png" alt="BusDash Phone" width="200">
+  <img src="https://raw.githubusercontent.com/sumitgouthaman/BusDash/main/screenshots/recording_phone.gif" alt="BusDash Phone Demo" width="200">
+  <div style="display: flex; flex-direction: column; gap: 10px; align-items: center; justify-content: center;">
+    <img src="https://raw.githubusercontent.com/sumitgouthaman/BusDash/main/screenshots/screenshot_watch.png" alt="BusDash Watch" width="150" style="object-fit: contain;">
+    <img src="https://raw.githubusercontent.com/sumitgouthaman/BusDash/main/screenshots/recording_watch.gif" alt="BusDash Watch Demo" width="150" style="object-fit: contain;">
+  </div>
+</div>
+
 ### OBA macOS — Bus Arrivals in Your Menu Bar
 
 **📂 [View on GitHub](https://github.com/sumitgouthaman/oba-macos)**
